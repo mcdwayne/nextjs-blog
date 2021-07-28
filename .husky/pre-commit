@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
-
-npm run lint
+curl -s https://icanhazdadjoke.com/ && echo
+# npm lint
