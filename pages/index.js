@@ -42,7 +42,7 @@ export default function Home({ allPostsData }) {
           <small className={utilStyles.lightText}>
           <Date dateString={date} />
           </small>
-</li>
+          </li>
 
           ))}
         </ul>
